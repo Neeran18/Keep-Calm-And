@@ -1,0 +1,43 @@
+body {
+	background-color: white;
+}
+#box {
+	color: : white;
+	margin: 300px;
+	width: :250px;
+	text-align: center;
+}
+
+h1{
+	color: white;
+	font-size: 100px;
+	border: 3000px;
+
+}
+
+h3{
+	color: white;
+	font-size: 75px;
+	
+}
+#box2{
+	border: 5px white double;
+	background-color: rgb(128,23,14);
+	width: 1250px;
+	margin: 10px auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
